@@ -37,6 +37,6 @@ This system aims to improve productivity, sustainability, and economic viability
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sachin9587/AgriSense.git
+   https://github.com/durai83a/AgriSense.git
 
    
